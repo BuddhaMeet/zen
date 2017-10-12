@@ -1,0 +1,27 @@
+ <div class="socials">
+    <nav class="share-new popup">
+      <strong>SHARE:</strong>
+            <a class="share-service share-fb" rel="nofollow" target="_blank" href="http://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=http://combadi.com/403-nectar-yoga-retreat.html&amp;pubid=ra-50803f2a7a7fbbf3">Facebook</a>
+      <a class="share-service share-tt" rel="nofollow" target="_blank" href="https://twitter.com/share">Twitter</a>
+      <a class="share-service share-gp" rel="nofollow" target="_blank" href="http://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?url=http://combadi.com/403-nectar-yoga-retreat.html&amp;pubid=ra-50803f2a7a7fbbf3">Google+</a>
+      <a class="share-service share-pt" rel="nofollow" target="_blank" href="http://api.addthis.com/oexchange/0.8/forward/pinterest/offer?url=http://combadi.com/403-nectar-yoga-retreat.html&amp;pubid=ra-50803f2a7a7fbbf3">Pinterest</a>
+      <div class="fb-like" data-href="http://combadi.com/403-nectar-yoga-retreat.html" data-width="100" data-height="22" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="false"></div>
+    </nav>
+    
+            <form class="comlove" data-love-count="15" action="/403/loveit" method="post" accept-charset="utf-8">
+      <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="e036b55c9b43f156dba010295f076004" /></div>      
+      <span class="loves">
+        <span class="love-count">15</span>
+        <span class="love-icon no-love">
+          <img src="/static/img/icon-love.png" alt="favourites" />
+        </span>
+      </span>
+      
+      <button class="love-button" type="submit">
+        <span class="love-icon">
+          <img src="/static/img/icon-love.png" alt=" " />
+        </span>
+        <span class="love-label">Love it!</span>
+      </button>
+    </form>
+  </div>

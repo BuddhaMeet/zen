@@ -1,0 +1,50 @@
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_google_plusone_share"></a>
+<a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52cd209c4357bb86"></script>
+<!-- AddThis Button END -->
+
+<!--Facebook分享按鈕(純HTML語法)-->
+<a target="_blank" href="http://www.facebook.com/share.php?u=分享網址">
+<img title="分享到臉書！" src="圖片網址" border="0" width="20" /></a>
+
+<!--Twitter分享按鈕(純HTML語法)-->
+<a target="_blank" href="http://twitter.com/home/?status=網址標題 分享網址">
+<img title="分享到維特！" src="圖片網址" border="0" width="20" /></a>
+ 
+<!--Google+分享按鈕(純HTML語法)-->
+<a target="_blank" href="https://plus.google.com/share?url=分享網址">
+<img title="分享到Google+！" src="https://www.gstatic.com/images/icons/gplus-32.png" border="0" width="20" /></a>
+ 
+<!--Plurk分享按鈕(純HTML語法)-->
+<a target="_blank" href="http://plurk.com/?qualifier=shares&status=[分享] 分享網址 (網址標題)">
+<img title="分享到噗浪！" src="圖片網址" border="0" width="20" /></a>
+ 
+
+ 
+<a href="http://pinterest.com/pinterest/" target="_blank"><font><font class="">Pinterest的</font></font></a>
+
+<!-??-Twitter分享按?(?HTML?法)-->
+<a target="_blank" href="http://twitter.com/home/?status=网址??分享网址">
+<img title="分享到?特！" src="?片网址" border="0" width="20" /></a>
+
+<!-- Twitter meta -->
+  <meta name="twitter:site" content="@ddmgwens">
+  <meta name="twitter:creator" content="@CombadiTravel">
+  <meta name="twitter:domain" content="http://home.educities.edu.tw/gwensddm/bms/">
+  <meta name="twitter:card" content="summary_large_image">
+
+
+
+<script type="text/javascript" src="//cdn.api.twitter.com/1/urls/count.json?url=file%3A%2F%2F%2FF%3A%2F%2525E7%2525B6%2525B2%2525E7%2525AB%252599%2525E5%2525B7%2525A5%2525E4%2525BD%25259C%2525E8%2525B3%252587%2525E6%252596%252599%2F%2525E8%2525BA%2525AB%2525E5%2525BF%252583%2525E9%25259D%252588%2525E7%2525B6%2525B2%2525E7%2525AB%252599%2525E7%2525B7%2525A8%2525E8%2525BC%2525AF%2Fb04.html&amp;callback=twttr.receiveCount"></script>
+
+
+
+
+<a href="javascript:void((function(){var%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+  

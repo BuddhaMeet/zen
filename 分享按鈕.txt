@@ -1,0 +1,40 @@
+
+
+
+<!-- 分享按鈕Button BEGIN -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-share-button" data-href="http://home.educities.edu.tw/gwensddm/bms/" data-type="box_count"></div>
+
+
+
+<!-- Place this tag where you want the share button to render. -->
+<div class="g-plus" data-action="share" data-annotation="vertical-bubble" data-height="60"></div>
+
+<!-- Place this tag after the last share tag. -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'zh-TW'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+<!-- twitter分享按鈕Button END -->
+<a href="https://twitter.com/share" class="twitter-share-button" data-text="身心靈和諧之旅 #PeaceTravel #Zen #Soul #Life #Love #Yoga #Happy #Buddhist #禪" data-via="ddmgwens" data-count="none" data-hashtags="MeditationTaiwan">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<!-- 分享按鈕Button END -->
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-text="身心靈和諧之旅 #PeaceTravel #Zen #Soul #Life #Love #Yoga #Happy #Buddhist #禪" data-via="ddmgwens" data-size="large" data-hashtags="Meditation">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>

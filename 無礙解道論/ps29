@@ -1,0 +1,247 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { var b=window,e="chrome",g="tick",h="wtsrt_",l="tbsd_",m="tbnd_",n="start",p="_wtsrt",q="_tbnd",r="CSI/";(function(){function k(a){this.t={};this.tick=function(a,d,c){this.t[a]=[void 0!=c?c:(new Date).getTime(),d];if(void 0==c)try{b.console.timeStamp(r+a)}catch(f){}};this[g](n,null,a)}var a;b.performance&&(a=b.performance.timing);var t=a?new k(a.responseStart):new k;b.jstiming={Timer:k,load:t};if(a){var d=a.navigationStart,f=a.responseStart;0<d&&f>=d&&(b.jstiming.srt=f-d)}if(a){var c=b.jstiming.load;0<d&&f>=d&&(c[g](p,void 0,d),c[g](h,p,f),c[g](l,h))}try{a=null,b[e]&&b[e].csi&&(a=Math.floor(b[e].csi().pageT),
+c&&0<d&&(c[g](q,void 0,b[e].csi().startE),c[g](m,q,d))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,c&&0<d&&(c[g](q,void 0,b.external.startE),c[g](m,q,d))),a&&(b.jstiming.pt=a)}catch(u){}})(); })()
+</script>
+<link rel="shortcut icon" href="/site/palishengdian/_/rsrc/1393377599598/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="https://ssl.gstatic.com/sites/p/9fe3ff/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { var d=window,e="length",h="",k="__duration__",l="function";function m(c){return document.getElementById(c)}d.byId=m;function n(c){return c.replace(/^\s+|\s+$/g,h)}d.trim=n;var p=[],q=0;d.JOT_addListener=function(c,a,b){var f=new String(q++);c={eventName:c,handler:a,compId:b,key:f};p.push(c);return f};d.JOT_removeListenerByKey=function(c){for(var a=0;a<p[e];a++)if(p[a].key==c){p.splice(a,1);break}};d.JOT_removeAllListenersForName=function(c){for(var a=0;a<p[e];a++)p[a].eventName==c&&p.splice(a,1)};
+d.JOT_postEvent=function(c,a,b){var f={eventName:c,eventSrc:a||{},payload:b||{}};if(d.JOT_fullyLoaded)for(a=p[e],b=0;b<a&&b<p[e];b++){var g=p[b];g&&g.eventName==c&&(f.listenerCompId=g.compId||h,(g=typeof g.handler==l?g.handler:d[g.handler])&&g(f))}else d.JOT_delayedEvents.push({eventName:c,eventSrc:a,payload:b})};d.JOT_delayedEvents=[];d.JOT_fullyLoaded=!1;
+d.JOT_formatRelativeToNow=function(c,a){var b=((new Date).getTime()-c)/6E4;if(1440<=b||0>b)return null;var f=0;60<=b&&(b/=60,f=2);2<=b&&f++;return a?d.JOT_siteRelTimeStrs[f].replace(k,Math.floor(b)):d.JOT_userRelTimeStrs[f].replace(k,Math.floor(b))}; })()
+</script>
+<script>
+
+
+var webspace = {"scottyUrl":"/_/upload","isConsumer":true,"canPublishScriptToAnyone":true,"serverFlags":{"cajaBaseUrl":"//www.gstatic.com/caja","cajaDebugMode":false},"sharingUrlPrefix":"/_/sharing","csiReportUri":"https://gg.google.com/csi","sharingPolicy":"OPENED","siteNoticeUrlEnabled":null,"siteNoticeUrlAddress":null,"analyticsAccountId":"UA-48270307-1","baseUri":"/site/palishengdian","enableUniversalAnalytics":false,"name":"palishengdian","features":{"copySiteProgressUpdates":true,"asyncPermanentDelete":true,"colorsAndFontsFix":true,"docosHideNotificationSettings":true,"driveImageLinkFromOnepick":true,"siteNoticeUrl":true,"asyncPageKeyFix":true,"fileCabinetScreenReaderFix":true,"pdfEmbedSupport":false,"siteMapBottomPaginationButtonsFix":true,"mobileOrientationFix":false,"newMyMapsEmbeds":true,"plusBadge":false,"analyticsTrackingForCorp":false,"freebirdFormEmbedDocTypeFix":true,"updatedTosAndPrivacyLinks":null,"webspaceUrlScrubOnlyOnBlur":true,"addShortcutToTextBoxDialog":true,"htmlEmbed":true,"newCountDownDialog":true,"pageTreeKeyboardFix":true,"domainAnalyticsInGAOnly":false,"languageSelectDefaultTextSetToDefault":true},"domain":"defaultdomain","adsensePublisherId":null,"gvizVersion":1,"siteTitle":"\u3000\u3000\u3000P \u0101 l i \u8056 \u5178","signInUrl":"https://www.google.com/a/SelectSession?continue\u003dhttps://sites.google.com/site/palishengdian/pali/da/kn/ps/ps29\u0026service\u003djotspot","pageSharingId":"jotspot_page","plusPageId":"","onepickBaseUrl":"https://docs.google.com","siteNoticeRevision":2,"termsUrl":"//www.google.com/intl/zh/policies/terms/","enableAnalytics":true,"isPublic":true,"siteNoticeMessage":"\n","plusPageUrl":"","homePath":"/","sharingId":"jotspot","isAdsenseEnabled":true,"adsensePromoClickedOrSiteIneligible":true,"isStartPageEnabled":false,"domainAnalyticsAccountId":""};
+
+
+
+webspace.gadgets = {"baseUri":"/site/palishengdian/system/app/pages/gadgets"};
+
+
+webspace.user = {"uid":"","renderMobile":false,"namespaceUser":false,"sessionIndex":"","primaryEmail":"guest","displayNameOrEmail":"guest","namespace":"","hasAdminAccess":false,"guest_":true,"keyboardShortcuts":true,"hasWriteAccess":false,"domain":"","dasherUser":false,"userName":"guest"};
+
+webspace.page = {"canDeleteWebspace":null,"locale":"zh_TW","state":"","wuid":"wuid:gx:1c52012dcbf6a696","pageInheritsPermissions":null,"timeZone":"America/Los_Angeles","properties":{},"type":"text","canChangePath":true,"parentWuid":"wuid:gx:55ceaf34b2b6a676","revision":3,"title":"29 Satipa\u1e6d\u1e6dh\u0101nakath\u0101 \u5ff5\u4f4f\u8ad6 (Ps 29, 34-35)","isRtlLocale":false,"bidiEnabled":false,"siteLocale":"zh_TW","name":"ps29","path":"/pali/da/kn/ps/ps29","isSiteRtlLocale":false,"parentPath":"/pali/da/kn/ps"};
+webspace.page.breadcrumbs = [{"title":"P\u0101li \u8056\u5178 (23324)","dir":"ltr","path":"/site/palishengdian/pali","deleted":false},{"title":"\uff5b\u4e00\uff5dDhamma \u6b63\u6cd5 (DA 1-5, 19984)","dir":"ltr","path":"/site/palishengdian/pali/da","deleted":false},{"title":"\u30105\u3011Khuddakanik\u0101ya \u5c0f\u90e8\u7d93\u5178 (KN 1-15, 7077)","dir":"ltr","path":"/site/palishengdian/pali/da/kn","deleted":false},{"title":"\u300a12\u300bPa\u1e6disambhid\u0101maggap\u0101\u1e37i \u7121\u7919\u89e3\u9053 (Ps 1-31, 331)","dir":"ltr","path":"/site/palishengdian/pali/da/kn/ps","deleted":false},{"title":"29 Satipa\u1e6d\u1e6dh\u0101nakath\u0101 \u5ff5\u4f4f\u8ad6 (Ps 29, 34-35)","dir":"ltr","path":"/site/palishengdian/pali/da/kn/ps/ps29","deleted":false}];
+
+
+webspace.editorResources = {
+  text: [
+    'https://ssl.gstatic.com/sites/p/9fe3ff/system/js/codemirror.js',
+    'https://ssl.gstatic.com/sites/p/9fe3ff/system/app/css/codemirror_css.css',
+    'https://ssl.gstatic.com/sites/p/9fe3ff/system/js/trog_edit__zh_tw.js',
+    'https://ssl.gstatic.com/sites/p/9fe3ff/system/app/css/trogedit.css',
+    '/site/palishengdian/_/rsrc/1418216638000/system/app/css/editor.css',
+    'https://ssl.gstatic.com/sites/p/9fe3ff/system/app/css/codeeditor.css',
+    '/site/palishengdian/_/rsrc/1418216638000/system/app/css/camelot/editor-jfk.css'
+  ],
+  sitelayout: [
+    'https://ssl.gstatic.com/sites/p/9fe3ff/system/app/css/sitelayouteditor.css'
+  ]
+};
+
+var JOT_clearDotPath = 'https://ssl.gstatic.com/sites/p/9fe3ff/system/app/images/cleardot.gif';
+
+
+var JOT_userRelTimeStrs = ["\u4e00\u5206\u9418\u524d","__duration__ \u5206\u9418\u524d","\u4e00\u5c0f\u6642\u524d","__duration__ \u500b\u5c0f\u6642\u524d"];
+
+
+webspace.siteTemplateId = false;
+
+
+webspace.page.currentTemplate = {"title":"28 Samas\u012bsakath\u0101 \u9f4a\u9996\u8ad6 (Ps 28, 33)","path":"/pali/da/kn/ps/ps28"};
+
+
+
+var JOT_siteRelTimeStrs = ["\u4e00\u5206\u9418\u524d","__duration__ \u5206\u9418\u524d","\u4e00\u5c0f\u6642\u524d","__duration__ \u500b\u5c0f\u6642\u524d"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="title" content="29 Satipaṭṭhānakathā 念住論 (Ps 29, 34-35) - 　　　P ā l i 聖 典" />
+<meta itemprop="name" content="29 Satipaṭṭhānakathā 念住論 (Ps 29, 34-35) - 　　　P ā l i 聖 典" />
+<meta property="og:title" content="29 Satipaṭṭhānakathā 念住論 (Ps 29, 34-35) - 　　　P ā l i 聖 典" />
+<meta name="description" content="☸ Svākkhāto Bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī. 世尊說正法律——『現見法，離熾燃；不待時節，通達涅槃；即身觀察，緣自覺知。』 --Pañcaverabhayasutta 五罪畏 (SN 12.41) ❦❧&#xA;" />
+<meta itemprop="description" content="☸ Svākkhāto Bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī. 世尊說正法律——『現見法，離熾燃；不待時節，通達涅槃；即身觀察，緣自覺知。』 --Pañcaverabhayasutta 五罪畏 (SN 12.41) ❦❧&#xA;" />
+<meta id="meta-tag-description" property="og:description" content="☸ Svākkhāto Bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī. 世尊說正法律——『現見法，離熾燃；不待時節，通達涅槃；即身觀察，緣自覺知。』 --Pañcaverabhayasutta 五罪畏 (SN 12.41) ❦❧&#xA;" />
+<style type="text/css">
+      
+      @font-face {
+  font-family: 'Qwigley';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Qwigley'), local('Qwigley-Regular'), url(//fonts.gstatic.com/s/qwigley/v6/K9QriY-uFU8lyAnX5hTTtgLUuEpTyoUstqEm5AMlJo4.woff2) format('woff2');
+}
+
+    
+    </style>
+<link rel="stylesheet" type="text/css" href="https://ssl.gstatic.com/sites/p/9fe3ff/system/app/themes/madison/standard-css-madison-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/site/palishengdian/_/rsrc/1418216638000/system/app/css/overlay.css?cb=madison90a150goog-ws-nav-nosidenone30themedefaultstandard" />
+<link rel="stylesheet" type="text/css" href="/site/palishengdian/_/rsrc/1418216638000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/site/palishengdian/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>29 Satipaṭṭhānakathā 念住論 (Ps 29, 34-35) - 　　　P ā l i 聖 典</title>
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" zh_TW            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="" role="banner"><div class="sites-header-cell-buffer-wrapper"><h2><a href="https://sites.google.com/site/palishengdian/" dir="ltr" id="sites-chrome-userheader-title">　　　P ā l i 聖 典</a></h2></div></td><td class="sites-layout-searchbox "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/site/palishengdian/system/app/pages/search" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="搜尋這個協作平台" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-search-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">搜尋這個協作平台</div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+<div class="sites-header-nav"><ul class="sites-header-nav-container-tabs"><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/palishengdian/pali/va/dv/dv3">總目錄</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/help">聖典凡例</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/pali/da">｛一｝Dhamma 正法 (DA 1-5, 19984)</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/pali/va">｛二｝Vinaya 聖律 (VA 1-5, 3340)</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/pali/da/dn">【1】Dīghanikāya 長部經典 (DN 1-34, 1360)</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/pali/da/mn">【2】Majjhimanikāya 中部經典 (MN 1-152, 1462)</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/pali/da/sn">【3】Saṃyuttanikāya 相應部經典 (SN 1-56, 2854)</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/pali/da/an">【4】Aṅguttaranikāya 增支部經典 (AN 1-11, 7231)</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/pali/da/kn">【5】Khuddakanikāya 小部經典 (KN 1-15, 7077)</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/raft">寶筏心燈</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/refer/nibbana">佛遺教經</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/refer/gatha">重要法偈</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/refer/puja">課誦集</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/palishengdian/pali/va/dv/dv1">比丘戒本</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/palishengdian/pali/va/dv/dv2">比丘尼戒本</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/refer/india">印度月份</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/refer/rupa">圖解佛法</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/refer/mula">佛法綱要</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/refer/dic/ge">八個格</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/refer/dic/fa-yin">巴利發音</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/refer/dic/liau">巴利字索引</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/refer">資料說明</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/dabodhi2555/">菩提僧團</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="http://dabodhi.blogspot.tw/" target="_blank">藏經閣</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/dabodhi2555/downloads" target="_blank">下載區</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/refer/savaka">佛子行</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/home">感恩父母</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/palishengdian/system/app/pages/sitemap/hierarchy">協作平台地圖</a></li></ul><div style="clear: both;"></div></div>
+</td>
+</tr>
+</table> 
+</div> 
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left" style="display: none; width: 150px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first "><div dir="ltr" style="padding-left: 19px;"><a href="/site/palishengdian/home" jotId="wuid:gx:45a393cc7ad80a08" class="sites-navigation-link topLevel">感恩父母</a></div></li><li class="topLevel parent " wuid="gx:48ae3bd3fd270edc"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/palishengdian/pali" jotId="wuid:gx:48ae3bd3fd270edc" class="sites-navigation-link topLevel">Pāli 聖典 (23324)</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/pali/da" jotId="wuid:gx:56bd42b51fb3007a" class="sites-navigation-link">｛一｝Dhamma 正法 (DA 1-5, 19984)</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/pali/va" jotId="wuid:gx:508e898c2a6ce40b" class="sites-navigation-link">｛二｝Vinaya 聖律 (VA 1-5, 3340)</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/palishengdian/web" jotId="wuid:gx:3f86fe46a88de0c0" class="sites-navigation-link topLevel">【菩提僧團網址】</a></div></li><li class="topLevel parent " wuid="gx:2a9c72efbe3e068a"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/palishengdian/raft" jotId="wuid:gx:2a9c72efbe3e068a" class="sites-navigation-link topLevel">寶筏心燈</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/raft/lamp1" jotId="wuid:gx:2b9bfddeda226f2d" class="sites-navigation-link">♨ 第一篇  ❤ ～心？</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/raft/lamp3" jotId="wuid:gx:20f6f74ea3994c3" class="sites-navigation-link">♨ 第三篇  啊！佛陀的智慧</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/raft/lamp2" jotId="wuid:gx:7fb641210b3a664" class="sites-navigation-link">♨ 第二篇  戒！</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/raft/lamp4" jotId="wuid:gx:9f7ed8254094d8c" class="sites-navigation-link">♨ 第四篇  覺行圓滿 ～☺</a></div></li></ul></li><li class="topLevel parent " wuid="gx:32bfe7f59a1fa959"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/palishengdian/help" jotId="wuid:gx:32bfe7f59a1fa959" class="sites-navigation-link topLevel">聖典凡例</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/help/note1" jotId="wuid:gx:7373428228e75a40" class="sites-navigation-link">01 如何親近「善知識」？</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/help/note2" jotId="wuid:gx:1fcae7a953945c9b" class="sites-navigation-link">02 無常歲月～～走出迷思</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/help/note3" jotId="wuid:gx:63a9143e3fa0d7ce" class="sites-navigation-link">03 凡例說明</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/help/note4" jotId="wuid:gx:2cce729a11d5afe9" class="sites-navigation-link">04 編輯說明之一</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/help/note5" jotId="wuid:gx:117c9fcbe1f44697" class="sites-navigation-link">05 編輯說明之二</a></div></li></ul></li><li class="topLevel parent " wuid="gx:52eb10d6b52f6889"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/palishengdian/refer" jotId="wuid:gx:52eb10d6b52f6889" class="sites-navigation-link topLevel">資料說明</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/sila" jotId="wuid:gx:33688725b665776b" class="sites-navigation-link">三皈［五戒、八戒］十戒文</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/savaka" jotId="wuid:gx:39fcd81728406621" class="sites-navigation-link">佛子行</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/savaka2" jotId="wuid:gx:2bc26164ca09932e" class="sites-navigation-link">佛子行之二</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/flag" jotId="wuid:gx:49b28305a85c5eb" class="sites-navigation-link">佛教旗</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/era" jotId="wuid:gx:79dfef92bee43707" class="sites-navigation-link">佛曆 B.E.</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/mula" jotId="wuid:gx:4eaa6ea41983df7b" class="sites-navigation-link">佛法綱要</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/nibbana" jotId="wuid:gx:1aeda62f5b1723b" class="sites-navigation-link">佛遺教經</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/india" jotId="wuid:gx:257341c9f91e4bdc" class="sites-navigation-link">印度月份</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/rupa" jotId="wuid:gx:73d14b530295bba0" class="sites-navigation-link">圖解佛法</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/olcott" jotId="wuid:gx:2ba294c31175658" class="sites-navigation-link">奧爾科特 Olcott</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/history" jotId="wuid:gx:19a69062bfcd74f5" class="sites-navigation-link">巴利文大藏經</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/pts" jotId="wuid:gx:1f57678098bd4445" class="sites-navigation-link">巴利聖典協會</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/dic" jotId="wuid:gx:5896da59c58c682" class="sites-navigation-link">詞典 &amp; 語文</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/puja" jotId="wuid:gx:2f756748bbfb5ab8" class="sites-navigation-link">課誦集</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/palishengdian/refer/gatha" jotId="wuid:gx:13c3605afada37ae" class="sites-navigation-link">重要法偈</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/palishengdian/system/app/pages/sitemap/hierarchy" jotId="wuid:gx:7156d1be0ac197f4" class="sites-navigation-link topLevel">協作平台地圖</a></div></li></ul></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+<A dir="ltr" href="/site/palishengdian/pali">Pāli 聖典 (23324)</A>‎ &gt; ‎<A dir="ltr" href="/site/palishengdian/pali/da">｛一｝Dhamma 正法 (DA 1-5, 19984)</A>‎ &gt; ‎<A dir="ltr" href="/site/palishengdian/pali/da/kn">【5】Khuddakanikāya 小部經典 (KN 1-15, 7077)</A>‎ &gt; ‎<A dir="ltr" href="/site/palishengdian/pali/da/kn/ps">《12》Paṭisambhidāmaggapāḷi 無礙解道 (Ps 1-31, 331)</A>‎ &gt; ‎
+  </div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr">29 Satipaṭṭhānakathā 念住論 (Ps 29, 34-35)</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div style="text-align:left;line-height:200%">
+<font size="5"><br />“｛一｝Dhamma 正法 (DA 1-5, 19984)/【5】Khuddakanikāya 小部經典 (KN 1-15, 7077)/《12》Paṭisambhidāmaggapāḷi 無礙解道 (Ps 1-31, 331)/3. Paññāvagga 慧品 (Ps 22-31, 1-42)”<br /><br />❦❧~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br />3.8 Satipaṭṭhānakathā 念住論 (Ps 29, 34-35)<br />~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~❦❧<br /><br />8. Satipaṭṭhānakathā<br /><br />34. Sāvatthinidānaṃ. “Cattārome, bhikkhave, satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ. Vedanāsu…pe… citte… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ. Ime kho, bhikkhave, cattāro satipaṭṭhānā”ti.<br /><br />35. [Ka] kathaṃ kāye kāyānupassī viharati? Idhekacco pathavīkāyaṃ aniccato anupassati, no niccato; dukkhato anupassati, no sukhato; anattato anupassati, no attato; nibbindati, no nandati; virajjati, no rajjati; nirodheti, no samudeti, paṭinissajjati, no ādiyati. Aniccato anupassanto niccasaññaṃ pajahati, dukkhato anupassanto sukhasaññaṃ pajahati, anattato anupassanto attasaññaṃ pajahati, nibbindanto nandiṃ pajahati, virajjanto rāgaṃ pajahati, nirodhento samudayaṃ pajahati, paṭinissajjanto ādānaṃ pajahati. Imehi sattahi ākārehi kāyaṃ anupassati. Kāyo upaṭṭhānaṃ, no sati. Sati upaṭṭhānañceva sati ca. Tāya satiyā tena ñāṇena taṃ kāyaṃ anupassati. Tena vuccati – “kāye kāyānupassanāsatipaṭṭhānā”.<br /><br />Bhāvanāti catasso bhāvanā – tattha jātānaṃ dhammānaṃ anativattanaṭṭhena bhāvanā, indriyānaṃ ekarasaṭṭhena bhāvanā, tadupagavīriyavāhanaṭṭhena bhāvanā, āsevanaṭṭhena bhāvanā.<br /><br />Idhekacco āpokāyaṃ…pe… tejokāyaṃ… vāyokāyaṃ… kesakāyaṃ… lomakāyaṃ… chavikāyaṃ… cammakāyaṃ… maṃsakāyaṃ… rudhirakāyaṃ… nhārukāyaṃ [nahārukāyaṃ (syā.)] … aṭṭhikāyaṃ… aṭṭhimiñjakāyaṃ aniccato anupassati, no niccato; dukkhato anupassati, no sukhato; anattato anupassati, no attato; nibbindati, no nandati; virajjati, no rajjati, nirodheti, no samudeti; paṭinissajjati, no ādiyati. Aniccato anupassanto niccasaññaṃ pajahati, dukkhato anupassanto sukhasaññaṃ pajahati, anattato anupassanto attasaññaṃ pajahati, nibbindanto nandiṃ pajahati, virajjanto rāgaṃ pajahati, nirodhento samudayaṃ pajahati, paṭinissajjanto ādānaṃ pajahati. Imehi sattahi ākārehi kāyaṃ anupassati. Kāyo upaṭṭhānaṃ, no sati. Sati upaṭṭhānañceva sati ca. Tāya satiyā tena ñāṇena taṃ kāyaṃ anupassati. Tena vuccati – “kāye kāyānupassanāsatipaṭṭhānā”.<br /><br />Bhāvanāti catasso bhāvanā – tattha jātānaṃ dhammānaṃ anativattanaṭṭhena bhāvanā, indriyānaṃ ekarasaṭṭhena bhāvanā, tadupagavīriyavāhanaṭṭhena bhāvanā, āsevanaṭṭhena bhāvanā. Evaṃ kāye kāyānupassī viharati.<br /><br />[Kha] kathaṃ vedanāsu vedanānupassī viharati? Idhekacco sukhaṃ vedanaṃ aniccato anupassati, no niccato…pe… paṭinissajjati, no ādiyati. Aniccato anupassanto niccasaññaṃ pajahati…pe… paṭinissajjanto ādānaṃ pajahati. Imehi sattahi ākārehi vedanaṃ anupassati. Vedanā upaṭṭhānaṃ, no sati. Sati upaṭṭhānañceva sati ca. Tāya satiyā tena ñāṇena taṃ vedanaṃ anupassati. Tena vuccati – “vedanāsu vedanānupassanāsatipaṭṭhānā”.<br /><br />Bhāvanāti catasso bhāvanā…pe… āsevanaṭṭhena bhāvanā…pe… idhekacco dukkhaṃ vedanaṃ…pe… adukkhamasukhaṃ vedanaṃ… sāmisaṃ sukhaṃ vedanaṃ… nirāmisaṃ sukhaṃ vedanaṃ… sāmisaṃ dukkhaṃ vedanaṃ… nirāmisaṃ dukkhaṃ vedanaṃ… sāmisaṃ adukkhamasukhaṃ vedanaṃ… nirāmisaṃ adukkhamasukhaṃ vedanaṃ… cakkhusamphassajaṃ vedanaṃ… sotasamphassajaṃ vedanaṃ… ghānasamphassajaṃ vedanaṃ… jivhāsamphassajaṃ vedanaṃ… kāyasamphassajaṃ vedanaṃ… manosamphassajaṃ vedanaṃ aniccato anupassati, no niccato…pe… paṭinissajjati, no ādiyati. Aniccato anupassanto niccasaññaṃ pajahati…pe… paṭinissajjanto ādānaṃ pajahati. Imehi sattahi ākārehi vedanaṃ anupassati. Vedanā upaṭṭhānaṃ, no sati. Sati upaṭṭhānañceva sati ca. Tāya satiyā tena ñāṇena taṃ vedanaṃ anupassati. Tena vuccati – “vedanāsu vedanānupassanāsatipaṭṭhānā”.<br /><br />Bhāvanāti catasso bhāvanā…pe… evaṃ vedanāsu vedanānupassī viharati.<br /><br />[Ga] kathaṃ citte cittānupassī viharati? Idhekacco sarāgaṃ cittaṃ aniccato anupassati, no niccato…pe… paṭinissajjati, no ādiyati. Aniccato anupassanto niccasaññaṃ pajahati…pe… paṭinissajjanto ādānaṃ pajahati. Imehi sattahi ākārehi cittaṃ anupassati. Cittaṃ upaṭṭhānaṃ, no sati. Sati upaṭṭhānañceva sati ca. Tāya satiyā tena ñāṇena taṃ cittaṃ anupassati. Tena vuccati – “citte cittānupassanāsatipaṭṭhānā”.<br /><br />Bhāvanāti catasso bhāvanā…pe… āsevanaṭṭhena bhāvanā.<br /><br />Idhekacco vītarāgaṃ cittaṃ…pe… sadosaṃ cittaṃ… vītadosaṃ cittaṃ… samohaṃ cittaṃ… vītamohaṃ cittaṃ… saṃkhittaṃ cittaṃ… vikkhittaṃ cittaṃ… mahaggataṃ cittaṃ… amahaggataṃ cittaṃ… sauttaraṃ cittaṃ… anuttaraṃ cittaṃ… samāhitaṃ cittaṃ… asamāhitaṃ cittaṃ… vimuttaṃ cittaṃ… avimuttaṃ cittaṃ… cakkhuviññāṇaṃ… sotaviññāṇaṃ… ghānaviññāṇaṃ… jivhāviññāṇaṃ… kāyaviññāṇaṃ… manoviññāṇaṃ aniccato anupassati, no niccato…pe… paṭinissajjati, no ādiyati. Aniccato anupassanto niccasaññaṃ pajahati…pe… paṭinissajjanto ādānaṃ pajahati. Imehi sattahi ākārehi cittaṃ anupassati. Cittaṃ upaṭṭhānaṃ, no sati. Sati upaṭṭhānañceva sati ca. Tāya satiyā tena ñāṇena taṃ cittaṃ anupassati. Tena vuccati – “citte cittānupassanāsatipaṭṭhānā”.<br /><br />Bhāvanāti catasso bhāvanā…pe… āsevanaṭṭhena bhāvanā. Evaṃ citte cittānupassī viharati.<br /><br />[Gha] kathaṃ dhammesu dhammānupassī viharati? Idhekacco ṭhapetvā kāyaṃ ṭhapetvā vedanaṃ ṭhapetvā cittaṃ tadavasese dhamme aniccato anupassati, no niccato; dukkhato anupassati, no sukhato; anattato anupassati, no attato; nibbindati, no nandati; virajjati, no rajjati; nirodheti, no samudeti; paṭinissajjati, no ādiyati. Aniccato anupassanto niccasaññaṃ pajahati, dukkhato anupassanto sukhasaññaṃ pajahati, anattato anupassanto attasaññaṃ pajahati, nibbindanto nandiṃ pajahati, virajjanto rāgaṃ pajahati, nirodhento samudayaṃ pajahati, paṭinissajjanto ādānaṃ pajahati. Imehi sattahi ākārehi te dhamme anupassati. Dhammā upaṭṭhānaṃ, no sati. Sati upaṭṭhānañceva sati ca. Tāya satiyā tena ñāṇena te dhamme anupassati. Tena vuccati – “dhammesu dhammānupassanāsatipaṭṭhānā”.<br /><br />Bhāvanāti catasso bhāvanā – tattha jātānaṃ dhammānaṃ anativattanaṭṭhena bhāvanā, indriyānaṃ ekarasaṭṭhena bhāvanā, tadupagavīriyavāhanaṭṭhena bhāvanā, āsevanaṭṭhena bhāvanā. Evaṃ dhammesu dhammānupassī viharatīti.<br /><br />Satipaṭṭhānakathā niṭṭhitā.<br /><br /><br />☸---------------------------------------------------------------------<br /><br /><br />慧品第八    （四）念住論<br />    一    諸比丘！如是有四念住。以何為四？諸比丘！於此處比丘於觀身而住、精勤、<br />    正知、具念而應識世間之貪、憂，於諸受……乃至……在於心〔……〕於諸法觀法<br />    而住、精勤、正知、具念而應識世間之貪、憂。諸比丘！如是為四念住。<br />    二    如何於身觀身而住？此處或者以無常地身不觀為常，由苦不觀為樂，由無我不<br />    觀為我，厭惡而不歡喜，離貪而不貪，令滅而不令集，定棄而不執取，由觀無常而<br />    斷常想，由觀苦而斷樂想，由觀無我而斷我想，厭惡而斷歡喜，離貪而斷貪，令滅<br />    而斷集，定棄而斷執取。如是依七行相而觀身。身之近住而非念，念是近住而亦〔自〕<br />    念，此念，依此智而觀此身，故曰，「於身觀身是修習念住」。<br />        修習者，於修習有四，依於其處所生諸法不超越之義而修習，依諸根一味之義<br />    修習，於是依生精進促進之義修習，依習之義為修習。<br />        於此處或者以無常之水身〔……〕火身〔……〕風身〔……〕髮身〔……〕毛<br />    身〔……〕膚身〔……〕皮身〔……〕肉身〔……〕血身〔……〕筋身〔……〕骨<br />    身〔……〕骨髓身不觀為常，由苦不觀為樂，由無我不觀為我，厭惡而不歡喜，離<br />    貪而不貪，令滅而不集，定棄而不執取，由無常觀而斷常想，由苦觀而斷樂想，由<br />    觀無我而斷我想，厭惡而斷歡喜，離貪而斷貪，令滅而斷集，定棄而斷執取。如是<br />    依七行相而觀身。身之近住而非念，念是近住而〔自〕念，此念，依此智而觀此身，<br />    故曰：「於身觀身是念住之修習」。「修習」者，修習有四……乃至……依習之義為修<br />    習……乃至……如是於身觀身而住。<br />    三    如何而於諸受觀受而住？於此處或者以無常樂受不觀為常……乃至……定棄而<br />    不執取，以觀無常而斷常想……乃至……定棄而斷執取，如是依七行相而觀受。受<br />    之近住而非念，念是近住而〔自〕念，此念，依此智而觀此之受，故曰：「於受觀受<br />    是念住之修習」。修習者，修習有四……乃至……依習之義為修習。<br />        於此處或者苦受……乃至……不苦不樂受……乃至……眼觸所生之受〔……〕<br />    耳觸所生之受〔……〕鼻觸所生之受〔……〕定棄而斷執取。如是依七行相而觀受。<br />    受之近住非念，念是近住而〔自〕念，此念，依此智而觀此受，故曰：「於受觀受是<br />    念住之修習」。修習者，修習有四……乃至……依習之義為修習……乃至……如是於<br />    諸受以觀受而住。<br />    四    如何於心觀心而住？於此處或者以無常之有貪心不觀為常……乃至……定棄而<br />    不執取，由觀無常而斷常想……乃至……定棄而斷執取。如是依七行相而觀心。心<br />    之近住而非念，念是近住而〔自〕念，此念，依此智而觀此心，故曰：「於心觀心是<br />    念住之修習」。修習者，修習有四……乃至……依習之義而修習……乃至……於此處<br />    或者以離貪心〔……〕有瞋心〔……〕離瞋心〔……〕有癡心〔……〕離癡心〔……〕<br />    收了心〔……〕散亂心〔……〕廣大心〔……〕非廣大心〔……〕有上心〔……〕<br />    無上心〔……〕得定心〔……〕未得定心〔……〕解脫心〔……〕未解脫心〔……〕<br />    眼識〔……〕耳識〔……〕鼻識〔……〕舌識〔……〕身識〔……〕意識之無常而<br />    不觀為常……乃至……定棄而不執取，觀無常而斷常想……乃至……定棄而斷執<br />    取。如是依七行相而觀心。心之近住而非念，念是近住而〔自〕念，此念，依此之<br />    智觀此之心，故曰：「於心觀心是念住之修習」。修習者，修習有四……依習之義為<br />    修習〔……乃至……〕如是於心觀心而住。<br />    五    如何於諸法觀法而住？於此處或者除身、除受、除心，於餘之無常諸法而不觀<br />    為常，苦不觀為樂，無我不觀為我，厭惡而不喜，離貪而不貪，令滅而不集，定棄<br />    而不執取，觀無常以斷常想，觀苦以斷樂想，觀無我以斷我想，厭惡以斷歡喜，離<br />    貪以斷貪，令滅以斷集，定棄以斷執取。如是依七行相而觀諸法。法之近住而非<br />    念，念是近住而〔自〕念，此念，依此智而觀此諸法，故曰「於諸法觀法是念住之修<br />    習」。修習者，修習有四，依其處生諸法不超越之義而修習，依諸根一味之義而修習，<br />    於此，依生精進促進之義而修習，依習之義而修習……乃至……如是於諸法觀法而<br />    住。<br /><br /><br />☸.....................................................................<br /><br /><br />☸*********************************************************************<br /><br /></font>
+</div></div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-subpages"> </div>
+<div id="sites-attachments-container">
+</div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://www.google.com/a/UniversalLogin?service=jotspot&amp;continue=https://sites.google.com/site/palishengdian/pali/da/kn/ps/ps29">登入</a><span aria-hidden="true">|</span><a class="sites-system-link" href="/site/palishengdian/system/app/pages/recentChanges">最近的協作平台活動</a><span aria-hidden="true">|</span><a class="sites-system-link" href="/site/palishengdian/system/app/pages/reportAbuse" target="_blank">檢舉濫用情形</a><span aria-hidden="true">|</span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">列印頁面</a><span aria-hidden="true">|</span><span class="sites-system-link">由 <b class="powered-by"><a href="http://sites.google.com">Google 協作平台</a></b>技術提供</span></p></div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-onebar-footer">
+</div>
+
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="https://ssl.gstatic.com/sites/p/9fe3ff/system/js/jot_min_view__zh_tw.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+    
+        sites.core.Analytics.createTracker();
+        sites.core.Analytics.trackPageview();
+      
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-search-button',
+                        {"object":[]}['object'],
+                        'search-site',
+                        {"label":"\u8a2d\u5b9a\u641c\u5c0b\u9078\u9805...","url":"/site/palishengdian/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("2bd", "瀏覽", true);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'https://gg.google.com/csi');
+                    }
+                  </script>
+
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "zh_TW");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+ //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupNoticeManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>

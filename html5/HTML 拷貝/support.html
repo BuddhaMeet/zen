@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>公益 - 愛心</title>
+<meta name="description" content="布施的人有福,行善的人快樂">
+<meta name="keywords" content="用心支持好事">
+<meta name="author" content="Siemting">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+jQuery(document).ready(function(){
+	$('#contactform').submit(function(){				  
+		var action = $(this).attr('action');
+		$.post(action, { 
+			name: $('#name').val(),
+			email: $('#email').val(),
+			company: $('#company').val(),
+			subject: $('#subject').val(),
+			message: $('#message').val()
+		},
+			function(data){
+				$('#contactform #submit').attr('disabled','');
+				$('.response').remove();
+				$('#contactform').before('<p class="response">'+data+'</p>');
+				$('.response').slideDown();
+				if(data=='Message sent!') $('#contactform').slideUp();
+			}
+		); 
+		return false;
+	});
+});
+// ]]>
+</script>
+
+
+
+
+</head>
+<body>
+
+
+
+
+
+<div class="main">
+  <div class="header">
+    <div class="block_header">
+      <div class="logo"><a href="index.html"><img src="images/logo.gif" width="209" height="57" border="0" alt="logo" /></a></div>
+      <div class="menu">
+        <ul>
+           <li><a href="index.html">Home</a></li>
+          <li><a href="heart.html" >心靈</a></li>
+          <li><a href="meditation.html">禪修</a></li>
+          <li><a href="believe.html">信仰</a></li>
+          <li><a href="support.html" class="active">支持</a></li>
+        </ul>
+      </div>
+      <div class="clr"> </div>
+    </div>
+  </div>
+  <div class="slider2">
+    <div class="slider2_resize">
+      <h2>Contact us</h2>
+      <p>Inspiration links</p>
+    </div>
+    <div class="clr"></div>
+  </div>
+  <div class="clr"></div>
+  <div class="bloga_resize2">
+    <div class="bloga_resizee"></div>
+    <div class="clr"></div>
+  </div>
+  <div class="clr"></div>
+  <div class="body">
+    <div class="body_resize">
+      <div class="right">
+        <h2>與我們連絡<br />
+        </h2>
+        <p >這是為了你的生命而完全開放的空間,歡迎您積極的來參與,讓您的心靈能夠提昇 ;你可以提供好的創見或是任何金錢以外的資源,來讓此進一步成為您愛世人的橋樑。</p>
+        <p>在這個園地裡我們分文不取,所有成員都是無條件地為了修行而奉獻的義工;我們只是提供一個修行芬圍的橋樑;它可能只是一個靜修中心或靜修村,也可能是個國際性的組織。(目前只是一間小茅蓬)<br />
+在這裡不要求你能為我們做點什麼,只問你要為你自己做點什麼;因為這是您內心創造幸福的園地 。</p>
+
+<iframe src="https://spreadsheets.google.com/spreadsheet/embeddedform?formkey=dHpqVWpLZ21RZWkyTHlFYWtTMlJQcUE6MQ" width="560" height="560" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+
+
+      </div>
+      <div class="left">
+        <div class="twitter">
+          <div class="twitter_footer">
+            <div class="twitter_top">                 
+                
+ <p>“ 您應該將發現的好事宜,現在就分享給予好朋友,     並且轉寄和推薦給他們!” </p>
+<p><strong>Follow us on siemting</strong></p>
+<p><a href="http://home.educities.edu.tw/gwensddm/">心聽靜心中心 http://home.educities.edu.tw/gwensddm/</a></p>
+            </div>
+          </div>
+        </div>
+
+
+
+
+        <p><strong> 交通資訊
+</strong></p>
+        <p>位於宜蘭藏億禪寺內 <br />
+          地址:宜蘭縣員山鄉湖北村大湖路134-16號<br />
+          來寺請先告知        
+ 
+           果聞法師<br />
+  電話: 092-961-2125 接話時間 8am-10am (2h)<br />
+電子郵件信箱<br />
+<a href="mailto:ddmgwens@gmail.com">
+<em><strong>ddmgwens@gmail.com</strong></em></a><br />
+</p>
+        
+          
+         </p>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="footer_resize">
+    <p class="leftt">Copyright © Siemting.com. All Rights Reserved</p>
+    <p class="rightt">&nbsp;</p>
+    <div class="clr"></div>
+  </div>
+  <div class="clr"></div>
+</div>
+
+
+</body>
+</html>
